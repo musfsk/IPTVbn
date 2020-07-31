@@ -26,14 +26,6 @@ https://itpolly.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
 #EXTINF:-1 tvg-language="Bangla" tvg-logo="https://s6.gifyu.com/images/desh-tv.png" group-title=“Bangla”,Desh TV
 https://itpolly.iptv.digijadoo.net/live/desh_tv/chunks.m3u8
 #EXTINF:-1 tvg-language="Bangla" tvg-logo="https://s6.gifyu.com/images/download5a71caa45109630c.png" group-title=“Bangla”,Duronto TV
-#EXTINF:0, group-title="Bangladesh",Deshe Bideshe
-http://103.252.220.41:1934/c5VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deshebideshe.stream/playlist.m3u8
-#EXTINF:0, group-title="Bangladesh",Deshi TV
-http://72.139.72.18:1935/live/myStream/playlist.m3u8
-#EXTINF:0, group-title="Bangladesh",Discovery Bangla
-http://mhms10.airtel.tv/wh7f454c46tw3557803401_1431050255/PLTV/88888888/224/3221226493/03.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Bangladesh",Dhoom TV
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226369/1.m3u8|User-Agent=ExoPlayerDemo/4.4
 https://itpolly.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
 #EXTINF:-1 tvg-language="Bangla" tvg-logo="https://s6.gifyu.com/images/Ekattor-tv-bangladesh.png" group-title=“Bangla”,Ekattor TV
 https://itpolly.iptv.digijadoo.net/live/ekattor_tv/chunks.m3u8
@@ -43,15 +35,17 @@ https://itpolly.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
 http://103.205.133.19/hls/ekushey.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image7706cc8618fc9938.png" group-title="Bangla",Gazi Tv
 https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
-#EXTINF:-1,Independent TV
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imaged485611e23a7ca51.png" group-title=“Bangla”,Independent TV
 https://itpolly.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
-#EXTINF:-1,Jamuna TV
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ec/e5/e4/ece5e49e4a220e78fce6069486cf5339.jpg" group-title=“Bangla”,Jamuna TV
 https://itpolly.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8
-#EXTINF:-1,NTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vPl5dF8.png" group-title=“Bangla”,NTV
 https://itpolly.iptv.digijadoo.net/live/ntv/chunks.m3u8
 #EXTINF:-1,Nagorik TV
+http://103.205.133.43/hls/nagorik.m3u8 
+#EXTINF:-1,Nagorik TV
 https://itpolly.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8
-#EXTINF:-1,RTV
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image29282f9d45a183d6.png" group-title=“Bangla",RTV
 https://itpolly.iptv.digijadoo.net/live/rtv/playlist.m3u8
 #EXTINF:-1,SA TV
 https://itpolly.iptv.digijadoo.net/live/sa_tv/playlist.m3u8
