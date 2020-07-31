@@ -1,59 +1,61 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image54942a3647a21709.png" group-title="Bangla",Maasranga
-https://itpolly.iptv.digijadoo.net/live/maasranga/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/isupportimg_1515036457940.png" group-title="Bangla",Asian TV
 https://itpolly.iptv.digijadoo.net/live/asian_tv/chunks.m3u8
-#EXTINF:-1 tvg-language="Bangla" tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png" group-title=“Bangla”,ATN Bangla
+#EXTINF:-1 tvg-language="Bangla" tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png" group-title=Bangla,ATN Bangla
 https://itpolly.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
-#EXTINF:-1 0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image2b075f0e0fd37461.png" group-title=“Bangla”,ATN News
+#EXTINF:-1 ,ATN Islamic TV
+http://appcdn.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnislamictv.stream/playlist.m3u8
+#EXTINF:0, group-title="Bangladesh",ATN Islamic
+http://103.252.220.41:1934/c5VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnislamictv.stream/playlist.m3u8
+#EXTINF:-1 0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image2b075f0e0fd37461.png" group-title=Bangla,ATN News
 https://itpolly.iptv.digijadoo.net/live/atn_news/chunks.m3u8
-#EXTINF:-1 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image5c0bfa6b281be803.png" group-title=“Bangla”,Banglavision TV
+#EXTINF:-1 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image5c0bfa6b281be803.png" group-title=Bangla,Banglavision TV
 https://itpolly.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8
-#EXTINF:-1 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image702275ef56e4ef86.png" group-title=“Bangla”,Boishakhi TV
+#EXTINF:-1 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image702275ef56e4ef86.png" group-title=Bangla,Boishakhi TV
 https://itpolly.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8
-#EXTINF:-1 tvg-language="Bangla" tvg-logo="https://s6.gifyu.com/images/BTV-Logo-Gallery.png" group-title=“Bangla”,BTV World
+#EXTINF:-1 tvg-language="Bangla" tvg-logo="https://s6.gifyu.com/images/BTV-Logo-Gallery.png" group-title=Bangla,BTV World
 https://itpolly.iptv.digijadoo.net/live/btv_world/chunks.m3u8
-#EXTINF:-1 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/imageef52edb088b56d2f.png" group-title=“Bangla”,Channel 9
+#EXTINF:-1 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/imageef52edb088b56d2f.png" group-title=Bangla,Channel 9
 https://itpolly.iptv.digijadoo.net/live/channel_9/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" group-title=“Bangla”,Channel 24
+#EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" group-title=Bangla,Channel 24
 https://itpolly.iptv.digijadoo.net/live/channel_24/chunks.m3u8
-#EXTINF:-1 tvg-language="Bangla" tvg-logo="https://s6.gifyu.com/images/image33ddf62bcf70a5b9.png" group-title=“Bangla”,Channel I
+#EXTINF:-1 tvg-language="Bangla" tvg-logo="https://s6.gifyu.com/images/image33ddf62bcf70a5b9.png" group-title=Bangla,Channel I
 https://itpolly.iptv.digijadoo.net/live/channel_i/chunks.m3u8
-#EXTINF:-1  tvg-language="Bangla" tvg-logo="https://i.imgur.com/XA5u4gk.png" group-title=“Bangla”,DBC News
+#EXTINF:-1  tvg-language="Bangla" tvg-logo="https://i.imgur.com/XA5u4gk.png" group-title=Bangla,DBC News
 https://itpolly.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
-#EXTINF:-1 tvg-language="Bangla" tvg-logo="https://i.imgur.com/Z13U9Vt.png" group-title=“Bangla”,Deepto TV
+#EXTINF:-1 tvg-language="Bangla" tvg-logo="https://i.imgur.com/Z13U9Vt.png" group-title=Bangla,Deepto TV
 https://itpolly.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
-#EXTINF:-1 tvg-language="Bangla" tvg-logo="https://s6.gifyu.com/images/desh-tv.png" group-title=“Bangla”,Desh TV
+#EXTINF:-1 tvg-language="Bangla" tvg-logo="https://s6.gifyu.com/images/desh-tv.png" group-title=Bangla,Desh TV
 https://itpolly.iptv.digijadoo.net/live/desh_tv/chunks.m3u8
-#EXTINF:-1 tvg-language="Bangla" tvg-logo="https://s6.gifyu.com/images/download5a71caa45109630c.png" group-title=“Bangla”,Duronto TV
+#EXTINF:-1 tvg-language="Bangla" tvg-logo="https://s6.gifyu.com/images/download5a71caa45109630c.png" group-title=Bangla,Duronto TV
 https://itpolly.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
-#EXTINF:-1 tvg-language="Bangla" tvg-logo="https://s6.gifyu.com/images/Ekattor-tv-bangladesh.png" group-title=“Bangla”,Ekattor TV
+#EXTINF:-1 tvg-language="Bangla" tvg-logo="https://s6.gifyu.com/images/Ekattor-tv-bangladesh.png" group-title=Bangla,Ekattor TV
 https://itpolly.iptv.digijadoo.net/live/ekattor_tv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title=“Bangla”,Ekushey TV
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title=Bangla,Ekushey TV
 https://itpolly.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title=“Bangla”,Ekushey TV HD
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title=Bangla,Ekushey TV HD
 http://103.205.133.19/hls/ekushey.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image7706cc8618fc9938.png" group-title="Bangla",Gazi Tv
 https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imaged485611e23a7ca51.png" group-title=“Bangla”,Independent TV
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imaged485611e23a7ca51.png" group-title=Bangla,Independent TV
 https://itpolly.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ec/e5/e4/ece5e49e4a220e78fce6069486cf5339.jpg" group-title=“Bangla”,Jamuna TV
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ec/e5/e4/ece5e49e4a220e78fce6069486cf5339.jpg" group-title=Bangla,Jamuna TV
 https://itpolly.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vPl5dF8.png" group-title=“Bangla”,NTV
-https://itpolly.iptv.digijadoo.net/live/ntv/chunks.m3u8 
-#EXTINF:-1,Nagorik TV
-https://itpolly.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image29282f9d45a183d6.png" group-title=“Bangla",RTV
-https://itpolly.iptv.digijadoo.net/live/rtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vPl5dF8.png" group-title=“Bangla”,NTV
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image54942a3647a21709.png" group-title="Bangla",Maasranga
+https://itpolly.iptv.digijadoo.net/live/maasranga/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vPl5dF8.png" group-title=Bangla,NTV
 https://itpolly.iptv.digijadoo.net/live/ntv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image29282f9d45a183d6.png" group-title=“Bangla”,RTV
+#EXTINF:-1 tvg-language="Bangla" tvg-logo="https://i.imgur.com/TfqhT5g.png" group-title=“Bangla”,News 24 HD
+https://itpolly.iptv.digijadoo.net/live/news_24_hd/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image29282f9d45a183d6.png" group-title=Bangla,RTV
 https://itpolly.iptv.digijadoo.net/live/rtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/hw62kGT7ZqJ.png" group-title=“Bangla”,SA TV
+#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/hw62kGT7ZqJ.png" group-title=Bangla,SA TV
 https://itpolly.iptv.digijadoo.net/live/sa_tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title=“Bangla”,6.Shomoy News TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KLb65ZT.jpg" group-title=“Bangla”,Sangsad TV 
+https://itpolly.iptv.digijadoo.net/live/sangsad_tv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title=Bangla,Somoy News TV
 http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
-#EXTINF:-1,Colors Bangla
+#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/Color-bangla.png" group-title=“Indian-Bangla”,Colors Bangla
 https://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
 #EXTINF:-1,Star Jalsha
 https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
