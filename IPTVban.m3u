@@ -37,7 +37,7 @@ https://itpolly.iptv.digijadoo.net/live/ekattor_tv/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title=Bangla,Ekushey TV HD
 http://103.205.133.19/hls/ekushey.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WaZyAOE.png" group-title=“Bangla”,Gaan Bangla
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WaZyAOE.png" group-title=Bangla,Gaan Bangla
 https://itpolly.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image7706cc8618fc9938.png" group-title=Bangla,Gazi Tv
 https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
