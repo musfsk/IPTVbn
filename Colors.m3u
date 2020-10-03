@@ -1,4 +1,4 @@
 #EXTM3U
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/30.ts
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RxR0qdJ.png" group-title="HINDI ENT.",COLORS
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/30.ts
